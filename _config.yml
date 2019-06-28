@@ -1,9 +1,10 @@
-
+# Jekyll theme
+theme: jekyll-theme-midnight
 # Set up
-title: Welcome!
+title: Camilo Marchesini
 email: camilo.marchesini@gmail.com
-description: Camilo Marchesini's website
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Camilo Marchesini's personal website
+baseurl:  # the subpath of your site, e.g. /blog
 
 # Repository
 repository: camilomrch/camilomrch.github.io
@@ -18,9 +19,7 @@ github_username: camilomrch
 # Build settings
 # others
 markdown: kramdown
-include: ['_pages']
 github: [metadata]
-theme: jekyll-theme-midnight
 input: GFM
 plugins:
   - jekyll-feed

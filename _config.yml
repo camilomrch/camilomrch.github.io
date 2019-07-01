@@ -4,6 +4,8 @@ theme: jekyll-theme-midnight
 title: Camilo Marchesini
 email: camilo.marchesini@gmail.com
 description: Camilo Marchesini's personal website
+
+url: https://camilomrch.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Repository
@@ -12,7 +14,6 @@ repository: camilomrch/camilomrch.github.io
 # Contact
 author:
   name: Camilo Marchesini
-  url: https://camilomrch.github.io
 
 github_username: camilomrch
 

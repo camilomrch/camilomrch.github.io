@@ -281,4 +281,4 @@ section #title .credits.right { float: right; }
   #title .credits .right { float: none; display: block; } }
 @media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
   section { margin-top: 40px; }
-  nav { display: none; } }
+ }

@@ -207,6 +207,8 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
+    octicons (9.1.1)
+      nokogiri (>= 1.6.3.1)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
@@ -243,6 +245,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  octicons
 
 BUNDLED WITH
    2.0.2

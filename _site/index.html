@@ -83,7 +83,7 @@
 
 
         <h2>Research Interests</h2>
-				<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Research_Interests &lt- function(macroproblem){
+				<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Research_Interests &lt- function(fields_in_macroeconomics){
 
 Research_Interests &lt-c(
 "Macroeconometrics",
@@ -92,26 +92,26 @@ Research_Interests &lt-c(
 "Computational Macroeconomics"
 )
 
-macroproblem  %&gt%
+macroproblems &lt- fields_in_macroeconomics  %&gt%
     select(one_of(Research_Interests))
 
-k &lt-nrow(macroproblem)
-solve_macroproblem &lt- matrix(NA,k,1)
+k &lt-nrow(macroproblems)
+solve_macroproblems &lt- matrix(NA,k,1)
 
 for (iter in 1:k){
-solve_macroproblem[iter,] &lt- apply(macroproblem,1,lots_of_dedication)
+solve_macroproblems[iter,] &lt- apply(macroproblems,1,lots_of_dedication)
    }
 
-return(solve_macroproblem)
+return(solve_macroproblems)
 
 }
 				</code></pre></div></div>
 
 
 			<h2 id="contact-details">Contact</h2>
-			 <a href="mailto:camilo.marchesini@gmail.com"><img src="assets/images/gmail.svg" height="42" width="42" alt="Gmail logo" title="gmail" ></a>
-			 <a href="https://github.com/camilomrch/"><img src="assets/images/github.svg" height="42" width="42" alt="Github logo" title="github"></a>
-			 <a href="https://forum.dynare.org/u/cmarch/"><img src="assets/images/dynare.svg" height="42" width="42" alt="Dynare logo" title="dynare forum" ></a>
+			 <a href="mailto:camilo.marchesini@gmail.com"><img src="assets/images/gmail.svg" height="100" width="100" alt="Gmail logo" title="gmail" ></a>
+			 <a href="https://github.com/camilomrch/"><img src="assets/images/github.svg" height="100" width="100" alt="Github logo" title="github"></a>
+			 <a href="https://forum.dynare.org/u/cmarch/"><img src="assets/images/dynare.svg" height="100" width="100" alt="Dynare logo" title="dynare forum" ></a>
 
 
 

@@ -67,11 +67,11 @@
 
 
 				<!--section class="main-content"-->
-					<p><img src="assets/images/author.jpg" alt="image" title="Photo of the author at Fjällnora Lake, Uppsala, Sweden. Photo credits: Giacomo Sandre" class="author_img"/></p>
+					<img src="assets/images/author.jpg" alt="Image of the author" title="Photo of the author at Fjällnora Lake, Uppsala, Sweden. Photo credits: Giacomo Sandre" class="author_img"/>
+
+
+
 			<h2 id="welcome">Welcome</h2>
-
-
-
 
 
 
@@ -82,30 +82,40 @@
 			<p>I have previously served at the <a href="https://www.lb.lt/en/cefer">Center for Excellence in Finance and Economic Research</a> (CEFER) of the <a href="https://www.lb.lt/en/">Bank of Lithuania</a>.</p>
 
 
-
-
-			<div class="col-md-5">
         <h2>Research Interests</h2>
-        <ul class="ul-interests">
+				<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Research_Interests &lt- function(fields_in_macroeconomics){
 
-          <li>Macroeconometrics</li>
+Research_Interests &lt-c(
+"Macroeconometrics",
+"Monetary Economics",
+"International Finance",
+"Computational Macroeconomics"
+)
 
-          <li>Monetary Economics</li>
+macroproblems &lt- fields_in_macroeconomics  %&gt%
+    select(one_of(Research_Interests))
 
-          <li>International Finance</li>
+k &lt-nrow(macroproblems)
+solve_macroproblems &lt- matrix(NA,k,1)
 
-          <li>Computational Macroeconomics</li>
+for (iter in 1:k){
+solve_macroproblems[iter,] &lt- apply(macroproblems,1,lots_of_dedication)
+   }
 
-        </ul>
-      </div>
+return(solve_macroproblems)
+
+}
+				</code></pre></div></div>
 
 
-			<h2 id="contact-details">Contact Details</h2>
+			<h2 id="contact-details">Contact</h2>
+			 <a href="mailto:camilo.marchesini@gmail.com"><img src="assets/images/gmail.svg" height="42" width="42" alt="Gmail logo" title="gmail" ></a>
+			 <a href="https://github.com/camilomrch/"><img src="assets/images/github.svg" height="42" width="42" alt="Github logo" title="github"></a>
+			 <a href="https://forum.dynare.org/u/cmarch/"><img src="assets/images/dynare.svg" height="42" width="42" alt="Dynare logo" title="dynare forum" ></a>
 
-			<p><a class="u-email" href="mailto:camilo.marchesini@gmail.com">camilo.marchesini@gmail.com</a></p>
 
 
-		 <small><em>Disclaimer: The views  expressed in this website should not be taken to necessarily reflect the position of my employers. Any errors or omissions are my own<!--the responsibility of the author-->.</em></small>
+		 <p><small><em>Disclaimer: The views  expressed in this website should not be taken to necessarily reflect the position of my employers. Any errors or omissions are my own<!--the responsibility of the author-->.</em></small></p>
 
 			<br style="clear: both;"/></p>
 					<footer class="site-footer">

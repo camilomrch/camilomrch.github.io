@@ -107,30 +107,6 @@ return(solve_macroproblems)
 }
 				</code></pre></div></div>
 
-
-				<code>Research_Interests &lt- function(fields_in_macroeconomics){
-
-				Research_Interests &lt-c(
-				"Macroeconometrics",
-				"Monetary Economics",
-				"International Finance",
-				"Computational Macroeconomics"
-				)
-
-				macroproblems &lt- fields_in_macroeconomics  %&gt%
-				select(one_of(Research_Interests))
-
-				k &lt-nrow(macroproblems)
-				solve_macroproblems &lt- matrix(NA,k,1)
-
-				for (iter in 1:k){
-				solve_macroproblems[iter] &lt- apply(macroproblems,1,lots_of_dedication)
-				}
-
-				return(solve_macroproblems)
-
-				}</code>
-
 			<h2 id="contact-details">Contact</h2>
 
 			 <a href="mailto:camilo.marchesini@gmail.com"><img src="assets/images/gmail.svg" height="100" width="100" alt="Gmail logo" title="gmail" ></a>
@@ -138,6 +114,9 @@ return(solve_macroproblems)
 			 <a href="https://github.com/camilomrch/"><img src="assets/images/github.svg" height="100" width="100" alt="Github logo" title="github"></a>
 
 			 <a href="https://forum.dynare.org/u/cmarch/"><img src="assets/images/dynare.svg" height="100" width="100" alt="Dynare logo" title="dynare forum" ></a>
+
+
+
 
 
 		 <p><small><em>Disclaimer: The views  expressed in this website should not be taken to necessarily reflect the position of my employers. Any errors or omissions are my own<!--the responsibility of the author-->.</em></small></p>

@@ -26,3 +26,4 @@ syntax_highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+permalink: /blog/:year/:month/:day/:title

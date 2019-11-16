@@ -4,4 +4,4 @@ title: "Dinu Lipatti Performing Some of Chopin's Best Waltzes"
 date: 2019-09-20
 ---
 You can click on the link below to listen to Dinu Lipatti's performance of some of Chopin's finest!
-[![Dinu Lipatti: 14 Waltzes & More](http://img.youtube.com/vi/Xdr_sBXvaJY&t=2426s/0.jpg)](https://www.youtube.com/watch?v=Xdr_sBXvaJY&t=2426s "Dinu Lipatti: 14 Waltzes & More")
+[![Dinu Lipatti: 14 Waltzes & More](http://img.youtube.com/vi/Xdr_sBXvaJY/0.jpg)](http://www.youtube.com/watch?v=Xdr_sBXvaJY "Dinu Lipatti: 14 Waltzes & More")

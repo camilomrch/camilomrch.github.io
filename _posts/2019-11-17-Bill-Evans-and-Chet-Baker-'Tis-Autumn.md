@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Tis Autumn: Bill Evans and Chet Baker"
+title: "Bill Evans and Chet Baker: 'Tis Autumn"
 date: 2019-11-17
 ---
 New York, December 30,1958- January 19, 1959: Bill Evans' and Chet Baker's Legendary Sessions!

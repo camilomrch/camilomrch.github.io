@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dinu Lipatti Performing Some of Chopin's Best Waltzes"
-date: 2019-09-20
+date: 2019-11-16
 ---
 You can click on the link below to listen to Dinu Lipatti's performance of some of Chopin's finest!
 

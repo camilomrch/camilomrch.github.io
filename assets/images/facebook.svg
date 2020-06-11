@@ -1,6 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:0;height:0;position:absolute;overflow:hidden;">
-  <defs>
-<symbol viewBox="0 0 275.45599365234375 512" aria-labelledby="bdsi-zocial-facebook-title" id="si-zocial-facebook"><title id="bdsi-zocial-facebook-title">icon facebook</title><path d="M0 274.944v-97.776h78.865V128c0-35.504 11.504-65.697 34.544-90.624C136.449 12.463 164.369 0 197.12 0h78.336v97.792H197.12c-5.105 0-9.712 2.816-13.808 8.448-4.097 5.632-6.144 12.544-6.144 20.735v50.177h98.288v97.775h-98.304V512H78.847V274.943H0z"/></symbol>
-  </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/></svg>

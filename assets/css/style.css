@@ -223,8 +223,8 @@ h4, h5, h6 { color: #e8e8e8; }
 
 h3 { font-size: 18px; line-height: 24px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: normal; color: #e8e8e8; }
 
-a { color: #ffcc00; font-weight: 400; text-decoration: none; }
-a:hover { color: #ffeb9b; }
+a { color: #ffd520; font-weight: 400; text-decoration: none; }
+a:hover { color: #ffcc00; }  /*#ffeb9b;*/
 
 a small { font-size: 11px; color: #666; margin-top: -0.6em; display: block; }
 

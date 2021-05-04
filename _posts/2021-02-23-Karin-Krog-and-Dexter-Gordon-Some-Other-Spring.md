@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karin Krog and Dexter Gordon: Some Other Spring"
-date: 2021-03-23
+date: 2021-02-23
 ---
 
 "Some Other Spring", from "Some Other Spring Blues and Ballads", recorded in Oslo in early May 1970, has the blurry intensity of the Norwegian twilight breezing through Niels-Henning Ørsted Pedersen's bass chords.

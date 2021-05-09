@@ -7,4 +7,4 @@ date: 2021-05-04
 
 Monica Zetterlund's crystal voice in "Jag Vet En Dejlig Rosa" backed by a shuffly Bill Evans Trio.
 
-[![Monica Zetterlund and Bill Evans - Jag Vet En Dejlig Rosa](http://img.youtube.com/vi/cPBp21lifHU/0.jpg)](http://www.youtube.com/watch?v=cPBp21lifHU "Monica Zetterlund and Bill Evans - Jag Vet En Dejlig Rosa")
+<iframe src="https://open.spotify.com/embed/track/2YtZQIEGWW1MO3Fg3KOOGA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -3,6 +3,7 @@ layout: post
 title: "Eva Cassidy: In The Early Morning Rain"
 date: 2019-10-10
 ---
+
 The sweet voice of Eva Cassidy in "In The Early Morning Rain".
 
-[![In The Early Morning Rain](http://img.youtube.com/vi/P9U_g7ftEyk/0.jpg)](http://www.youtube.com/watch?v=P9U_g7ftEyk "In The Early Morning Rain")
+<iframe src="https://open.spotify.com/embed/track/3FinYm2pHulDkO7dajmKZT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

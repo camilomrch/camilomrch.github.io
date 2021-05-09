@@ -206,7 +206,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 .highlight .ss { color: #90a959; }
 
-body { padding: 0px 0 20px 0px; margin: 0px; font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #353535; font-weight: normal; background: #9bc6ee; /* #f0e7d5; #e03a3e; #1c63ba; Twitter light blue #1da1f2*/
+body { padding: 0px 0 20px 0px; margin: 0px; font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #353535; font-weight: normal; background: #e03a3e; /* #f0e7d5; #e03a3e; #1c63ba; Twitter light blue #1da1f2*/
 background-attachment: fixed !important; background: linear_gradient(#2a2a29, #1c1c1c); }
 
 h1, h2, h3, h4, h5, h6 { color: #353535; margin: 0 0 10px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; } /*#e8e8e8*/

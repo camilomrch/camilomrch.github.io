@@ -209,7 +209,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 body { padding: 0px 0 20px 0px; margin: 0px; font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #353535; font-weight: normal; background: #f0e7d5; /*#e03a3e; #1c63ba; Twitter light blue #1da1f2*/
 background-attachment: fixed !important; background: linear_gradient(#2a2a29, #1c1c1c); }
 
-h1, h2, h3, h4, h5, h6 { color: #e8e8e8; margin: 0 0 10px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; }
+h1, h2, h3, h4, h5, h6 { color: #353535; margin: 0 0 10px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; } /*#e8e8e8*/
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
@@ -219,12 +219,12 @@ h1 { font-size: 28px; }
 
 h2 { font-size: 24px; }
 
-h4, h5, h6 { color: #e8e8e8; }
+h4, h5, h6 { color: #353535; }/*#e8e8e8*/
 
-h3 { font-size: 18px; line-height: 24px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: normal; color: #e8e8e8; }
+h3 { font-size: 18px; line-height: 24px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: normal; color: #353535; } /*#e8e8e8*/
 
-a { color: #ffd520; font-weight: 400; text-decoration: none; }
-a:hover { color: #ffeb9b; }  /*#ffeb9b;*/
+a { color: *#e03a3e; font-weight: 400; text-decoration: none; }
+a:hover { color: #e03a30; }  /*#ffeb9b;*/
 
 a small { font-size: 11px; color: #666; margin-top: -0.6em; display: block; }
 
@@ -265,7 +265,7 @@ dt { color: #f0e7d5; font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetic
 #header nav li.downloads { float: right; margin-left: 6px; }
 #header nav li.title { float: right; margin-right: 10px; font-size: 11px; }
 #header nav li.button {
-  float: left;
+  float: center;
   margin-left: 10px;
   margin-right: 10px;
   font-size: 14px;

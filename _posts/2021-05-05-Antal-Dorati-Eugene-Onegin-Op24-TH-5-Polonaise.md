@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antal Doráti: Eugene Onegin, Op. 24, TH 5: Polonaise"
+title: "Antal Dorati: Eugene Onegin, Op. 24, TH 5: Polonaise"
 date: 2021-01-24
 ---
 
